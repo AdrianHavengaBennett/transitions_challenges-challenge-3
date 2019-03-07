@@ -1,0 +1,12 @@
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    transition-delay: 1s;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
+
+.box:hover {
+    background-color: #e84610;
+}
